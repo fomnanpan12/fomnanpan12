@@ -19,7 +19,7 @@ I 💛 building real-time applications but I mostly work on and experiment with 
 
 ![Nanpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomnanpan12&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomnanpan12)](https://github.com/fomnanpan12/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomnanpan12)](https://github.com/fomnanpan12/github-readme-stats) -->
 
 <!--
 **fomnanpan12/fomnanpan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
